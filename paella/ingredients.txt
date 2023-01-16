@@ -2,4 +2,5 @@ mussels
 shrimps
 tomatoes
 rice
+artichokes
 
